@@ -12,6 +12,8 @@ The KDE folks: https://github.com/KDE
  
  
 #Installation:
+
+Download the files and move the Vertex-Breeze folder to ~/.themes or do this:
 ``cd ~/.themes && git clone https://github.com/RaitaroH/Vertex-Breeze-Metacity.git && mv Vertex-Breeze-Metacity/Vertex-Breeze/ ~/.themes/``
 
 Now simply change the metacity theme from your desktops' settings.
