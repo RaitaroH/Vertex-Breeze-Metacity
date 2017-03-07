@@ -5,6 +5,14 @@ The original Vertex theme: https://github.com/horst3180/vertex-theme
 
 The KDE folks: https://github.com/KDE
 
+Installation:
+``
+mv ~/.themes && git clone https://github.com/RaitaroH/Vertex-Breeze-Metacity.git
+``
+
+Now simply change the metacity theme from your desktops' settings.
+
+
 
 
 Screenshots:
