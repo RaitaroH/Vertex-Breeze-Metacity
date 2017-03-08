@@ -6,11 +6,7 @@ The original Vertex theme: https://github.com/horst3180/vertex-theme
 The KDE folks: https://github.com/KDE
  
  
- 
- 
- 
- 
- 
+
 #Installation:
 
 Download the files and move the Vertex-Breeze folder to ~/.themes or do this:
@@ -19,14 +15,11 @@ Download the files and move the Vertex-Breeze folder to ~/.themes or do this:
 
 Now simply change the metacity theme from your desktops' settings.
  
- 
- 
- 
- 
+
 
 #Screenshots:
 
-Here is the at full length focused and unfocused. I provide minimize,maximize, unmaximize, close, menu, shade, stick/unstick buttons with focused, unfocused, pressed and hover.
+Here is the at full length focused and unfocused. I provide minimize, maximize, unmaximize, close, menu, shade, stick/unstick buttons with focused, unfocused, pressed and hover variations.
 ![alt tag](https://i.imgur.com/Qr97FtW.png)
 
 Hover and unmaximize:
