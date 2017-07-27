@@ -7,17 +7,21 @@ The KDE folks: https://github.com/KDE
  
  
 
-#Installation:
+# Installation:
 
 Download the files and move the Vertex-Breeze folder to ~/.themes or do this:
 
-``cd ~/.themes && git clone https://github.com/RaitaroH/Vertex-Breeze-Metacity.git && mv Vertex-Breeze-Metacity/Vertex-Breeze/ ~/.themes/``
+```
+cd ~/.themes
+git clone https://github.com/RaitaroH/Vertex-Breeze-Metacity.git
+mv Vertex-Breeze-Metacity/Vertex-Breeze/ ~/.themes/
+```
 
 Now simply change the metacity theme from your desktops' settings.
  
 
 
-#Screenshots:
+# Screenshots:
 
 Here is the at full length focused and unfocused. I provide minimize, maximize, unmaximize, close, menu, shade, stick/unstick buttons with focused, unfocused, pressed and hover variations.
 ![alt tag](https://i.imgur.com/Qr97FtW.png)
