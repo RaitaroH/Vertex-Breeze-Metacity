@@ -4,8 +4,9 @@ A fork from the vertex theme with a touch of KDE's breeze.
 The original Vertex theme: https://github.com/horst3180/vertex-theme
 
 The KDE folks: https://github.com/KDE
- 
- 
+
+firefox-hide-caption-titlebar-plus: https://github.com/Javier-DarthPalpatine/firefox-hide-caption-titlebar-plus
+
 
 # Installation:
 
@@ -16,6 +17,7 @@ cd ~/.themes
 git clone https://github.com/RaitaroH/Vertex-Breeze-Metacity.git
 mv Vertex-Breeze-Metacity/Vertex-Breeze/ ~/.themes/
 ```
+You can also move the chrome folder to your firefox profile IF you are using the **firefox-hide-caption-titlebar-plus** addon.
 
 Now simply change the metacity theme from your desktops' settings.
  
