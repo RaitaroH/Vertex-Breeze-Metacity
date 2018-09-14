@@ -14,7 +14,7 @@ Download the files and move the Vertex-Breeze folder to ~/.themes or do this:
 
 ```
 cd ~/.themes
-git clone https://github.com/RaitaroH/Vertex-Breeze-Metacity.git
+git clone https://gitlab.com/RaitaroH/Vertex-Breeze-Metacity.git
 mv Vertex-Breeze-Metacity/Vertex-Breeze/ ~/.themes/
 ```
 You can also move the chrome folder to your firefox profile IF you are using the **firefox-hide-caption-titlebar-plus** addon.
